@@ -1,5 +1,5 @@
 # Junior-training
-В данном репозитории я решаю задачки, которые предлагают на собеседованиях для Junior питонистов
+`In this repository, I solve problems that are offered at interviews for Junior developers in Python 🐍`
 
 ## W1S1
 Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. 
@@ -20,3 +20,6 @@ Note:
 ## W1S4
 There is a collection of input strings and a collection of query strings. For each query string, 
 determine how many times it occurs in the list of input strings. Return an array of the results.
+
+## W1S5
+Given an array of integers, where all elements but one occur twice, find the unique element.
