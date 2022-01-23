@@ -23,3 +23,7 @@ determine how many times it occurs in the list of input strings. Return an array
 
 ## W1S5
 Given an array of integers, where all elements but one occur twice, find the unique element.
+
+## W2S1
+There is a large pile of socks that must be paired by color. Given an array of integers representing
+the color of each sock, determine how many pairs of socks with matching colors there are.
